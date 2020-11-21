@@ -29,6 +29,6 @@ class TrafficLight:  # creating TrafficLight class
                 time.sleep(10)
 
 
-traffic_light_1 = TrafficLight()  #
-traffic_light_1.running()
+traffic_light_1 = TrafficLight()  # instantiating 'traffic_light_1' object of 'TrafficLight' class
+traffic_light_1.running()  # call 'running' method for 'traffic_light_1' object
 

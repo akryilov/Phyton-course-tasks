@@ -9,30 +9,6 @@
 # Проверить работу примера на реальных данных
 # (создать экземпляры класса Position, передать данные, проверить значения атрибутов, вызвать методы экземпляров).
 
-# class Worker:
-#     def __init__(self, position):
-#         self.name = 'Ivan'
-#         self.surname = 'Petrov'
-#         self.position = 'CEO'
-#         self._income = {"wage": 10, "bonus": 30}
-#
-# class Position(Worker):
-#
-#     def get_full_name(self):
-#         if self.position == 'CEO':
-#             print(f'Full Name: {self.name + " " + self.surname}')
-#         else:
-#             print('Person not found!')
-#
-#     def get_total_income(self):
-#         if self.position == 'CEO':
-#             print(f'Total income: {sum(self._income.values())}')
-#         else:
-#             print('Person not found!')
-#
-# ex_1 = Position('CEO')
-# ex_1.get_full_name()
-# ex_1.get_total_income()
 
 class Worker:
     def __init__(self, name, surname, position, income):
