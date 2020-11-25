@@ -12,6 +12,44 @@
 # реализовать абстрактные классы для основных классов проекта,
 # проверить на практике работу декоратора @property.
 
-class Clother:
-    def __init__(self, name):
-        self.name = name
+# наследнки пальто и костюм. Реализовать абстрактный класс и проверить работу проперти.
+
+from abc import ABC, abstractmethod
+
+
+class Clother(ABC):
+    def __init__(self, name, par):
+        self._name = name
+        self._par = par
+
+    @abstractmethod
+    def consamp_calc(self):
+        pass
+
+    def __add__(self, other):
+        return self.consamp_calc() + other.consamp_calc()
+
+
+class Coat(Clother):
+
+    def consamp_calc(self):
+        if self._name == 'Coat':
+            self.par1 = (self._par / 6.5) + 0.5
+        return self.par1
+
+
+class Suit(Clother):
+
+    def consamp_calc(self):
+        if self._name == 'Suit':
+            self.par2 = (self._par * 2) + 0.3
+        return self.par2
+
+
+coat_1 = Coat('Coat', 6.5)
+suit_1 = Suit('Suit', 0.35)
+
+print(coat_1.consamp_calc())
+print(suit_1.consamp_calc())
+
+print(coat_1 + suit_1)
