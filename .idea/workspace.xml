@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2755fd0e-d42e-4ce9-a64e-700d6eace5d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/akryilov/Phyton-course-tasks" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqBMGD3mUQiChYi9RVnLY47bH5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson7" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akryilov\PycharmProjects\pythonProject\Phyton-course-tasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lesson8_task5">
+    <configuration name="Lesson6_task1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Phyton-course-tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson6_task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson8_study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\akryilov\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8_study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson8_task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\akryilov\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8_task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson8_task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\akryilov\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8_task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson8_task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\akryilov\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8_task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson8_task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\akryilov\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8_task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Lesson6_task1" />
+      <item itemvalue="Python.Lesson8_study" />
+      <item itemvalue="Python.Lesson8_task1" />
+      <item itemvalue="Python.Lesson8_task3" />
+      <item itemvalue="Python.Lesson8_task4" />
+      <item itemvalue="Python.Lesson8_task5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lesson8_task5" />
+        <item itemvalue="Python.Lesson8_task4" />
+        <item itemvalue="Python.Lesson8_task3" />
+        <item itemvalue="Python.Lesson8_task1" />
+        <item itemvalue="Python.Lesson8_study" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2755fd0e-d42e-4ce9-a64e-700d6eace5d3" name="Default Changelist" comment="" />
+      <created>1604521691544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604521691544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="218" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605392907092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605392907092" />
+    <state x="565" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605978481933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605978481933" />
+    <state x="706" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605202371413" />
+    <state width="481" height="438" key="DebuggerActiveHint" timestamp="1604783836738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="481" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1604783836738" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1605972778131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605972778131" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606076783930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606076783930" />
+    <state width="1511" height="574" key="GridCell.Tab.0.bottom" timestamp="1606660225149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="574" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606660225149" />
+    <state width="1882" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606509630421" />
+    <state width="1003" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.728@1920.0.1024.728" timestamp="1606158389334" />
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="574" key="GridCell.Tab.0.center" timestamp="1606660225149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="574" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606660225149" />
+    <state width="1882" height="302" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606509630421" />
+    <state width="1003" height="156" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.728@1920.0.1024.728" timestamp="1606158389334" />
+    <state width="1515" height="228" key="GridCell.Tab.0.center/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="574" key="GridCell.Tab.0.left" timestamp="1606660225149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="574" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606660225149" />
+    <state width="1882" height="302" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606509630420" />
+    <state width="1003" height="156" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.728@1920.0.1024.728" timestamp="1606158389334" />
+    <state width="1515" height="228" key="GridCell.Tab.0.left/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="574" key="GridCell.Tab.0.right" timestamp="1606660225149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="574" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606660225149" />
+    <state width="1882" height="302" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606509630421" />
+    <state width="1003" height="156" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.728@1920.0.1024.728" timestamp="1606158389334" />
+    <state width="1515" height="228" key="GridCell.Tab.0.right/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="142" key="GridCell.Tab.1.bottom" timestamp="1606649664172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="142" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606649664172" />
+    <state width="1882" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606504948070" />
+    <state width="1515" height="228" key="GridCell.Tab.1.bottom/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="142" key="GridCell.Tab.1.center" timestamp="1606649664172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="142" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606649664172" />
+    <state width="1882" height="297" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606504948070" />
+    <state width="1515" height="228" key="GridCell.Tab.1.center/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="142" key="GridCell.Tab.1.left" timestamp="1606649664172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="142" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606649664172" />
+    <state width="1882" height="297" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606504948070" />
+    <state width="1515" height="228" key="GridCell.Tab.1.left/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state width="1511" height="142" key="GridCell.Tab.1.right" timestamp="1606649664172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="142" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606649664172" />
+    <state width="1882" height="297" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606504948070" />
+    <state width="1515" height="228" key="GridCell.Tab.1.right/1920.0.2560.1407/5760.0.1024.728/0.0.1536.824@1920.0.2560.1407" timestamp="1606228574167" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1604943111090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604943111090" />
+    <state x="0" y="148" key="Vcs.Push.Dialog.v2" timestamp="1605365727761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605365727761" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606240544673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1606240544673" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605971667131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605971667131" />
+    <state x="331" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604745266960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1604745266960" />
+    <state x="262" y="54" width="1008" height="768" key="search.everywhere.popup" timestamp="1606601560662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="54" width="1008" height="768" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606601560662" />
+    <state x="328" y="70" width="1260" height="969" key="search.everywhere.popup/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1606509110353" />
+    <state x="2095" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1024.728@1920.0.1024.728" timestamp="1605810241022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson8_task4.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
